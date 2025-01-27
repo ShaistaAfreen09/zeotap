@@ -1,1 +1,1 @@
-Collab file with results link : https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_appendix-tools-for-deep-learning/jupyter.ipynb
+Colab file with results link :[ https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_appendix-tools-for-deep-learning/jupyter.ipynb](https://colab.research.google.com/drive/1pOnxEevR13wd5ImgCc2skjb-B4_Dk8As?usp=sharing)
